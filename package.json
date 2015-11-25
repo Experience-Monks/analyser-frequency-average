@@ -1,0 +1,38 @@
+{
+  "name": "analyser-frequency-average",
+  "version": "1.0.0",
+  "description": "gets an average Hz between two frequency ranges",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "audio-frequency-to-index": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "freq",
+    "range",
+    "frequency",
+    "audio",
+    "detection",
+    "beat",
+    "visualizer",
+    "freqs",
+    "frequencies"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/analyser-frequency-average.git"
+  },
+  "homepage": "https://github.com/Jam3/analyser-frequency-average",
+  "bugs": {
+    "url": "https://github.com/Jam3/analyser-frequency-average/issues"
+  }
+}
